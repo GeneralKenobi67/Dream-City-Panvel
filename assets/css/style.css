@@ -1571,3 +1571,24 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+#send{
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #ffc451;
+  color: black;
+  background-color: transparent;
+}
+
+#send:hover{
+  background: #ffc451;
+  border-color: #ffc451;
+  color: #151515;
+}
